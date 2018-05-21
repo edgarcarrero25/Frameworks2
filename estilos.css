@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blog-body {
+  background:#993300;
+  width:100vw;
+  height:100vh;
+}
+
+header {
+	background-color:white;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.logo {
+	width:80%;
+	height:100%;
+	align:left;
+}
+
+.redes img {
+	width:5%;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+.titulo-text {
+	font-size:18px;
+	font-weight:bolder;
+	color:black;
+	padding:10px;
+	text-align:center;
+	background-color:#FF9966;
+}
+
+nav {
+	background-color:#FF9966;
+}
+
+#section {
+	background-color:white;
+	color:black;
+	padding-left:2%;
+	padding-right:2%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:2%;
+	text-align:justify;
+}
+
+.article img {
+	width:100%;
+	height:100%;
+	align:center;
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+.form-control {
+	width:100%;
+	height:100%;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding:5%;
+    border: none;
+    margin-top:10%;
+    margin-right:10%;
+    font-size: 17px;
+}
+
+.list-group {
+	width:90%;
+	padding-left:6%;
+	padding-right:6%;
+	margin-left:5%;
+}
